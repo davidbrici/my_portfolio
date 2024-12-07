@@ -1,2 +1,23 @@
+# macOS-specific files and directories
 .DS_Store
-.DS_Store
+.Trash/
+Library/
+Applications/
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Movies/
+Public/
+
+# Jupyter-specific
+.ipynb_checkpoints/
+
+# Development tools and cache
+.vscode/
+.conda/
+.cache/
+
+# Logs
+*.log
